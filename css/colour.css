@@ -1,0 +1,30 @@
+div
+{
+  margin: 0;
+  padding: 0;
+  height: 135px;
+}
+#red
+{
+  background-color: red;
+}
+#blue
+{
+  background-color: blue;
+}
+#green
+{
+  background-color: green;
+}
+#yellow
+{
+  background-color: yellow;
+}
+#white
+{
+  background-color: white;
+}
+#grey
+{
+  background-color:lightgrey;
+}
